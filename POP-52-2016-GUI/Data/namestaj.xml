@@ -50,4 +50,14 @@
     <obrisan>false</obrisan>
     <tipNamestaja>1</tipNamestaja>
   </Namestaj>
+  <Namestaj>
+    <Id>6</Id>
+    <naziv>Kozna fotelja</naziv>
+    <jedinicnaCena>500</jedinicnaCena>
+    <akcija>2</akcija>
+    <kolicina>4</kolicina>
+    <sifra>1535</sifra>
+    <obrisan>false</obrisan>
+    <tipNamestaja>1</tipNamestaja>
+  </Namestaj>
 </ArrayOfNamestaj>

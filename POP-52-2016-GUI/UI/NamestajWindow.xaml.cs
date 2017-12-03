@@ -32,7 +32,7 @@ namespace POP_SF_52_2016_GUI.UI
             InitializeComponent();
             InicilizujVrednosti(namestaj, operacija);
         }
-        // Martonošijevo:
+        // Moje :
         private void InicilizujVrednosti(Namestaj namestaj, Operacija operacija)
         {
             cbAkcije.Items.Add("");
